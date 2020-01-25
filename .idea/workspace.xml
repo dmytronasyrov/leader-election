@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c796c0ce-abb9-4d81-9691-fa5a2676e324" name="Default Changelist" comment="" />
+    <list default="true" id="c796c0ce-abb9-4d81-9691-fa5a2676e324" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leader/LeaderElection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leader/LeaderElection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leader/LeaderElection$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leader/LeaderElection$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leader/LeaderElection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leader/LeaderElection.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +29,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -48,6 +58,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WrHme12g0f1g8kxdntdQzUe7o7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,6 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -138,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579900953224</updated>
-      <workItem from="1579900955246" duration="2819000" />
+      <workItem from="1579900955246" duration="9228000" />
     </task>
     <servers />
   </component>
@@ -158,22 +172,22 @@
       <screen x="0" y="23" width="1680" height="964" />
     </state>
     <state x="652" y="221" key="#com.intellij.ide.util.MemberChooser/0.23.1680.964@0.23.1680.964" timestamp="1579902116209" />
-    <state width="1637" height="320" key="GridCell.Tab.0.bottom" timestamp="1579904067303">
+    <state width="1637" height="259" key="GridCell.Tab.0.bottom" timestamp="1579951892163">
       <screen x="0" y="23" width="1680" height="964" />
     </state>
-    <state width="1637" height="320" key="GridCell.Tab.0.bottom/0.23.1680.964@0.23.1680.964" timestamp="1579904067303" />
-    <state width="1637" height="320" key="GridCell.Tab.0.center" timestamp="1579904067302">
+    <state width="1637" height="259" key="GridCell.Tab.0.bottom/0.23.1680.964@0.23.1680.964" timestamp="1579951892163" />
+    <state width="1637" height="259" key="GridCell.Tab.0.center" timestamp="1579951892162">
       <screen x="0" y="23" width="1680" height="964" />
     </state>
-    <state width="1637" height="320" key="GridCell.Tab.0.center/0.23.1680.964@0.23.1680.964" timestamp="1579904067302" />
-    <state width="1637" height="320" key="GridCell.Tab.0.left" timestamp="1579904067301">
+    <state width="1637" height="259" key="GridCell.Tab.0.center/0.23.1680.964@0.23.1680.964" timestamp="1579951892162" />
+    <state width="1637" height="259" key="GridCell.Tab.0.left" timestamp="1579951892161">
       <screen x="0" y="23" width="1680" height="964" />
     </state>
-    <state width="1637" height="320" key="GridCell.Tab.0.left/0.23.1680.964@0.23.1680.964" timestamp="1579904067301" />
-    <state width="1637" height="320" key="GridCell.Tab.0.right" timestamp="1579904067303">
+    <state width="1637" height="259" key="GridCell.Tab.0.left/0.23.1680.964@0.23.1680.964" timestamp="1579951892161" />
+    <state width="1637" height="259" key="GridCell.Tab.0.right" timestamp="1579951892162">
       <screen x="0" y="23" width="1680" height="964" />
     </state>
-    <state width="1637" height="320" key="GridCell.Tab.0.right/0.23.1680.964@0.23.1680.964" timestamp="1579904067303" />
+    <state width="1637" height="259" key="GridCell.Tab.0.right/0.23.1680.964@0.23.1680.964" timestamp="1579951892162" />
     <state width="1637" height="320" key="GridCell.Tab.1.bottom" timestamp="1579904067305">
       <screen x="0" y="23" width="1680" height="964" />
     </state>
@@ -198,21 +212,9 @@
       <screen x="0" y="23" width="1680" height="964" />
     </state>
     <state x="349" y="144" key="SettingsEditor/0.23.1680.964@0.23.1680.964" timestamp="1579900985413" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leader/LeaderElection.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leader/LeaderElection.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="504" y="235" width="670" height="676" key="search.everywhere.popup" timestamp="1579906153570">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state x="504" y="235" width="670" height="676" key="search.everywhere.popup/0.23.1680.964@0.23.1680.964" timestamp="1579906153570" />
   </component>
 </project>
